@@ -1,7 +1,7 @@
 #!/bin/bash
 pushd /root
-git clone https://git.onap.org/integration
-pushd integration/test/mocks/masspnfsim
+git clone https://git.onap.org/integration/simulators/masspnf-simulator
+pushd masspnf-simulator
 ./setup.sh
 source .tox/MassPnfSim-runtime/bin/activate
 ./mass-pnf-sim.py build

@@ -15,7 +15,7 @@ echo "Hello World" | nc localhost  10000
 Trigger the pnf simulator locally:
 
 ```
-~/dev/git/integration/test/mocks/masspnfsim/pnf-sim-lightweight$ curl -s -X POST -H "Content-Type: application/json" -H "X-ONAP-RequestID: 123" -H "X-InvocationID: 456" -d @config/config.json
+~/dev/git/masspnf-simulator/pnf-sim-lightweight$ curl -s -X POST -H "Content-Type: application/json" -H "X-ONAP-RequestID: 123" -H "X-InvocationID: 456" -d @config/config.json
 http://localhost:5000/simulator/start
 ```
 
