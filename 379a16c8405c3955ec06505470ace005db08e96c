@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a6a10b5_15d6732c",
+        "filename": "deployment/heat/mass-pnf-sim_run.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 3949
+      },
+      "writtenOn": "2020-12-16T09:33:09Z",
+      "side": 1,
+      "message": "Any need to support multiple branches here in the future?",
+      "revId": "379a16c8405c3955ec06505470ace005db08e96c",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
