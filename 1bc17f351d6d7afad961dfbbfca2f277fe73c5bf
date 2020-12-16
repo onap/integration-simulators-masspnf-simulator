@@ -1,0 +1,8 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Bartek Grzybowski <b.grzybowski@partner.samsung.com>
+Code-Review+2: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-by: Morgan Richomme <morgan.richomme@orange.com>
+Submitted-at: Wed, 16 Dec 2020 09:46:43 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/simulators/masspnf-simulator/+/116217
+Project: integration/simulators/masspnf-simulator
+Branch: refs/heads/master
