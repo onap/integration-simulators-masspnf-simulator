@@ -1,0 +1,8 @@
+Code-Review+2: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Code-Review+2: Bartek Grzybowski <b.grzybowski@partner.samsung.com>
+Verified+1: LF Jenkins CI <releng+lf-jobbuilder@linuxfoundation.org>
+Submitted-by: Bartek Grzybowski <b.grzybowski@partner.samsung.com>
+Submitted-at: Wed, 16 Dec 2020 07:49:43 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/integration/simulators/masspnf-simulator/+/116216
+Project: integration/simulators/masspnf-simulator
+Branch: refs/heads/master
